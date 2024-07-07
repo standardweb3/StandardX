@@ -20,7 +20,7 @@ COPY . /app
 
 # Expose any ports the app is supposed to use
 # (Replace <port_number> with the actual port number)
-EXPOSE <port_number>
+EXPOSE 3000
 
 # Set the command to run your app
 CMD ["bash"]
