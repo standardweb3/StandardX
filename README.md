@@ -1,33 +1,26 @@
-## Foundry
+## StandardX
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+StandardX related contract codes and node container
 
 ## Documentation
 
-https://book.getfoundry.sh/
+https://docs.standardweb3.com/standardx
 
 ## Usage
 
-### Build
+### Build Standardx contracts
 
 ```shell
 $ forge build
 ```
 
-### Test
+### Test Standardx contracts
 
 ```shell
 $ forge test
 ```
 
-### Format
+### Format Standardx contracts
 
 ```shell
 $ forge fmt
